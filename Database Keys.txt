@@ -1,0 +1,4 @@
+HOST=aws-eu-west-2.connect.psdb.cloud
+USERNAME=jw5r4s4hpygud6jvnpz4
+PASSWORD=pscale_pw_UhWVMFwGSC6tPag2kVQHRRE2Cy7p06qF8BqKIpYDUNA
+DATABASE=group17demo
